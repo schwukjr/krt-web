@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-gb"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-gb</language>
+        
+
+        
+            <lastBuildDate>2024-09-17 16:29:18 +0100 BST</lastBuildDate>
+        
+
+        <link>http://localhost:1313/</link>
+
+        
+
+        <title>Emily Caitlan Media</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+                    
+                
+
+                
+                
+
+                
+
+                
+
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-09-17:/aboutme/</guid>
+
+                
+                    <link>http://localhost:1313/aboutme/</link>
+                
+
+                
+                    <pubDate>Tue, 17 Sep 2024 16:29:18 BST</pubDate>
+                
+
+                
+                    <title>About Me</title>
+                
+            </item>
+        
+    </channel>
+</rss>

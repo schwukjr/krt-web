@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Caitlan Media</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Emily Caitlan Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© 2024 Emily Caitlan Media. All rights reserved.</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food &amp; Drinks</title>
+      <link>http://localhost:1313/food-drinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food-drinks/</guid><media:content url="http://localhost:1313/food-drinks/ECM-1_hu3082288021458431877.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/food-drinks/ECM-1_hu3082288021458431877.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Products</title>
+      <link>http://localhost:1313/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/</guid><media:content url="http://localhost:1313/products/ECM-108_hu5225886867160036688.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/products/ECM-108_hu5225886867160036688.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Companies I&#39;ve Worked With</title>
+      <link>http://localhost:1313/worked-with/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/worked-with/</guid><media:content url="http://localhost:1313/worked-with/016764_cec54ac6e3d84892912e3b5335e3da34~mv2_hu11279541498480785283.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/worked-with/016764_cec54ac6e3d84892912e3b5335e3da34~mv2_hu11279541498480785283.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Other</title>
+      <link>http://localhost:1313/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other/</guid><media:content url="http://localhost:1313/other/ECM-109_hu12118246072751195233.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/other/ECM-109_hu12118246072751195233.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
