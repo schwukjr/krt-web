@@ -1,0 +1,5 @@
+keswick-round-table/output/*
+keswick-round-table/tmp/*
+keswick-round-table/public
+keswick-round-table/.hugo_build.lock
+keswick-round-table/resources/_gen/images
