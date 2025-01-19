@@ -1,50 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emily Caitlan Media</title>
+    <title>Keswick Round Table</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Emily Caitlan Media</description>
+    <description>Recent content on Keswick Round Table</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>© 2024 Emily Caitlan Media. All rights reserved.</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Keswick Round Table. All rights reserved.</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Food &amp; Drinks</title>
-      <link>http://localhost:1313/food-drinks/</link>
+      <title>Socials</title>
+      <link>http://localhost:1313/socials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/food-drinks/</guid><media:content url="http://localhost:1313/food-drinks/ECM-1_hu3082288021458431877.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/socials/</guid><media:content url="http://localhost:1313/socials/a46a196e-08ee-4bbe-96ce-fde35fea32d5_hu8030024074464574923.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/food-drinks/ECM-1_hu3082288021458431877.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/socials/a46a196e-08ee-4bbe-96ce-fde35fea32d5_hu8030024074464574923.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Products</title>
-      <link>http://localhost:1313/products/</link>
+      <title>Community</title>
+      <link>http://localhost:1313/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/</guid><media:content url="http://localhost:1313/products/ECM-108_hu5225886867160036688.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/community/</guid><media:content url="http://localhost:1313/community/a59e9a4d-db64-4f65-a46f-d5fc058b586f_hu15072004855206631392.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/products/ECM-108_hu5225886867160036688.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/community/a59e9a4d-db64-4f65-a46f-d5fc058b586f_hu15072004855206631392.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Companies I&#39;ve Worked With</title>
-      <link>http://localhost:1313/worked-with/</link>
+      <title>Members</title>
+      <link>http://localhost:1313/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/worked-with/</guid><media:content url="http://localhost:1313/worked-with/016764_cec54ac6e3d84892912e3b5335e3da34~mv2_hu11279541498480785283.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/members/</guid><media:content url="http://localhost:1313/members/Group_hu11857707633708647519.JPEG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/worked-with/016764_cec54ac6e3d84892912e3b5335e3da34~mv2_hu11279541498480785283.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/members/Group_hu11857707633708647519.JPEG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Other</title>
-      <link>http://localhost:1313/other/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/other/</guid><media:content url="http://localhost:1313/other/ECM-109_hu12118246072751195233.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/other/ECM-109_hu12118246072751195233.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>About Me</title>
+      <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid><description>&lt;no value&gt;</description></item>
