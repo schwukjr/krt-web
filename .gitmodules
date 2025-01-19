@@ -1,0 +1,3 @@
+[submodule "keswick-round-table/themes/gallery"]
+	path = keswick-round-table/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
