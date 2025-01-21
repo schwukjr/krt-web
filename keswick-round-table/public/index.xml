@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keswick Round Table</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Keswick Round Table</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <copyright>© 2025 Keswick Round Table. All rights reserved.</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Keswick Round Table. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Socials</title>
-      <link>http://localhost:1313/socials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/socials/</guid><media:content url="http://localhost:1313/socials/a46a196e-08ee-4bbe-96ce-fde35fea32d5_hu8030024074464574923.JPG" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/socials/a46a196e-08ee-4bbe-96ce-fde35fea32d5_hu8030024074464574923.JPG&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
+      <title>Hiking Sale Fell</title>
+      <link>http://localhost:1313/posts/hiking-23/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hiking-23/</guid>
+      <description></description>
+    </item>
     <item>
-      <title>Community</title>
-      <link>http://localhost:1313/community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/community/</guid><media:content url="http://localhost:1313/community/a59e9a4d-db64-4f65-a46f-d5fc058b586f_hu15072004855206631392.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/community/a59e9a4d-db64-4f65-a46f-d5fc058b586f_hu15072004855206631392.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Members</title>
-      <link>http://localhost:1313/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/</guid><media:content url="http://localhost:1313/members/Group_hu11857707633708647519.JPEG" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/members/Group_hu11857707633708647519.JPEG&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid><description>&lt;no value&gt;</description></item>
+      <title>Ullswater Wake and Surf</title>
+      <link>http://localhost:1313/posts/wakesurfing-24/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wakesurfing-24/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

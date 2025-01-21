@@ -1,7 +1,7 @@
 baseURL = 'https://keswick-rt.co.uk/'
 languageCode = 'en-gb'
 title = 'Keswick Round Table'
-theme = "gallery"
+theme = "hugo-split-gallery"
 copyright = "© 2025 Keswick Round Table. All rights reserved."
 
 [params]
